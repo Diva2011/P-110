@@ -1,0 +1,68 @@
+body
+{
+  color:black;
+  background: #c0d3ff;
+  
+}
+span
+{
+  font-size: 40px;
+}
+#camera , #result
+{
+  border: 3px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 15px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+  color: darkblue;
+  background-color: lavender;
+}
+
+label{
+  font-size: 25px;
+  color: black;
+  background-color: lavenderblush;
+  
+}
+
+h3 , h4{
+  font-weight: bold;  
+  font-family: 'Franklin Gothic Medium';
+
+}
+
+h3{
+  font-style: oblique;
+}
+
+
+
+.footer{
+  text-align: center;
+  background-color: white;
+  width: 100%;
+  font-style: italic;
+  text-decoration: underline;
+  bottom: 100%;
+  text-shadow: 2px 2px 3px  grey;
+}
+
+.border{
+  border:2px purple dashed;
+}
